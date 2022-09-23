@@ -1,0 +1,11 @@
+D:\.net_projects\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+D:\.net_projects\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+D:\.net_projects\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+D:\.net_projects\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+D:\.net_projects\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+D:\.net_projects\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+D:\.net_projects\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+D:\.net_projects\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+D:\.net_projects\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+D:\.net_projects\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+D:\.net_projects\TicTacToeGame\obj\Debug\TicTacToeGame.TicTacToe.resources
